@@ -1,5 +1,5 @@
 
-
+* New
 capture program drop regress1
 
 program regress1, rclass
